@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming better than yesterday....<br>🌱 I’m currently learning Javascript, React, Node, NextJS, TS, and DSA.<br>👯 I’m looking to collaborate on various web projects and OSS.<br>📫 How to reach me: olaidemmanuel1@gmail.com
+🔭 I’m currently working on becoming better than yesterday....<br>🌱 I’m currently learning Javascript, React, Node, NextJS, TS, and DSA.<br>👯 I’m looking to collaborate on various web projects and OSS.<br>📫 How to reach me: olaidemmanuel0@gmail.com
 
 
 ## 🌐 Socials:
